@@ -16,5 +16,5 @@ goals
 - Git dan GitHub
 - Java script
 ## Tautan
-- Website: https://portofolio-Aprillia Efla Susmita.vercel.app
+- Website: https://aprillia-efla-susmita-tugas1-esy2skd4k-aprillia-efla-susmita.vercel.app
 - Dibuat oleh: Aprillia Efla Susmita, SMKS Brantas karangkates
