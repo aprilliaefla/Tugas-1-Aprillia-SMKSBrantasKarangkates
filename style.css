@@ -39,7 +39,9 @@ h2 {
     color: #9375b3; /* Ungu  */    
     margin: 20px 0 8px;  
     text-transform: uppercase;  
-    letter-spacing: 1px; } ul {  
+    letter-spacing: 1px; } 
+    
+    ul {  
     padding-left: 20px;  
     line-height: 1.8; 
 } 
